@@ -9442,3 +9442,9 @@ var worker_default = {
 export {
   worker_default as default
 };
+/*! Bundled license information:
+
+js-sha256/src/sha256.js:
+
+*/
+//# sourceMappingURL=worker.js.map
